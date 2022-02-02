@@ -1,4 +1,4 @@
-Hertzsprung-Russell Diagrams Nov’19-Jan’20
+*Hertzsprung-Russell Diagrams *Nov’19-Jan’20
 Krittika Winter Projects, Krittika - The Astronomy Club, Institute Technical Project, IIT Bombay
 •Analysed extensively HR Diagrams and their uses in Astronomy in a group of 4 members
 •Built a strong base of Astronomy and main sequence stellar evolution, used isochrone fitting on
